@@ -1,0 +1,24 @@
+#quiz-container {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .question {
+    margin-bottom: 15px;
+  }
+  
+  button.option {
+    display: block;
+    margin: 5px 0;
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #score {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  
